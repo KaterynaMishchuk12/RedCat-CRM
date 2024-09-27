@@ -1,4 +1,4 @@
-<!-- <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
   <defs>
     <!-- Alerts icons -->
     <symbol id="icon-logo" fill="none" viewBox="0 0 24 24">
@@ -128,4 +128,4 @@
       <path stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="4" stroke-width="0.6154" d="M11.105 27.17c1.754-1.103 2.945-4.855 0.685-6.823l-5.275 7.735c-0.427 0.624-0.2 1.289 1.13 0.67l13.127-6.117c0.255-0.123 0.483-0.296 0.671-0.507s0.333-0.458 0.426-0.725c0.093-0.267 0.132-0.551 0.116-0.833s-0.088-0.559-0.212-0.814l-0.004-0.008-4.56-9.85c-0.547-1.126 0.323-2.903 1.924-4.209M20.894 4.83c-1.753 1.103-2.945 4.855-0.685 6.823l5.275-7.735c0.427-0.624 0.2-1.289-1.13-0.67l-13.127 6.117c-0.255 0.123-0.483 0.296-0.671 0.507s-0.333 0.458-0.426 0.725-0.132 0.551-0.116 0.833c0.016 0.283 0.088 0.559 0.212 0.814l0.004 0.008 4.56 9.85c0.547 1.126-0.323 2.903-1.924 4.21"></path>
     </symbol>
   </defs>
-</svg> -->
+</svg>
